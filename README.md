@@ -1,2 +1,2 @@
 # nyc-taxi-fare-prediction
-This is a machine learning tutorial
+A machine learning tutorial
